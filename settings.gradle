@@ -1,0 +1,2 @@
+include ':app', ':dummydata'
+project(':dummydata').projectDir = new File(settingsDir, '../DummyData/data')
