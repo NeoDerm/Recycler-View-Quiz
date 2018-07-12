@@ -13,7 +13,7 @@
 
 ### Setup Instructions
 
-- Pull the library and this project in the same folder
+- Pull this project
 - https://gitlab.com/ndgarylai/RecyclerView
 
 ### Data
