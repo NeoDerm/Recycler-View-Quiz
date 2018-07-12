@@ -15,7 +15,6 @@
 
 - Pull the library and this project in the same folder
 - https://gitlab.com/ndgarylai/RecyclerView
-- https://gitlab.com/ndgarylai/DummyData
 
 ### Data
 
@@ -24,6 +23,7 @@
 - Data are not fully the same as the original data. Only necessary data are provided.
 - You should call DataHelper().getData() to retrieve the data.
 - Data are shuffled every time.
+- You do not need to modify the Dummy Data.
 
 ### Bonus
 
