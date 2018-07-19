@@ -14,7 +14,7 @@
 ### Setup Instructions
 
 - Pull this project
-- https://gitlab.com/ndgarylai/RecyclerView
+- Use Android Studio to open the project
 
 ### Data
 
